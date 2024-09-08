@@ -5,7 +5,7 @@ node_modules/
 # Ignore disk file directory
 dist/
 #Ignore package-lock.json
-package-lock.json
+# package-lock.json
 
 #Ignore package-lock.json
-package.json
+# package.json
