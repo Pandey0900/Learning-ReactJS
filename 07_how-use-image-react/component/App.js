@@ -1,4 +1,4 @@
-import AppleCounter from "./component/AppleCounter"
+import AppleCounter from "./AppleCounter"
 
 const App = () => {
   return (

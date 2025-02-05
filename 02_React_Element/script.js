@@ -50,14 +50,14 @@ const h2 = {
 root.render(container);
 
 /*
-//we will see how we create Element do in DOM JS and Why we use React Element ?
+we will see how we create Element do in DOM JS and Why we use React Element ?
 
 const h2=document.createElement('h2');
 h2.innerText="Cerate element in JS"
 document.querySelector(".root").append(h2);
 console.dir(h2)
 
-// reason: Creating elements in JavaScript using the DOM results in a lot of properties, making them heavy. 
-// In contrast, creating elements in React involves fewer properties, which makes them faster.
+ reason: Creating elements in JavaScript using the DOM results in a lot of properties, making them heavy. 
+ In contrast, creating elements in React involves fewer properties, which makes them faster.
 
 */
